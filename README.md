@@ -1,2 +1,2 @@
 # wait-a-sec
-Node module for setting a custom spinner for wait times
+Node module for setting a custom spinner for load times
