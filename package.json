@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Custom spinner module for load screens",
   "main": "index.js",
+  "dependencies":{},
+  "devDependencies":{},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +18,7 @@
     "load",
     "wait"
   ],
-  "author": "Miguel Q",
+  "author": "Miguel Q miguelmirq@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MQuaresma/wait-a-sec/issues"
